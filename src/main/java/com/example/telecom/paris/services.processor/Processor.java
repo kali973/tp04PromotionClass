@@ -14,5 +14,6 @@ public class Processor {
         promotion.add("amaury", "belloit");
         promotion.add("julien", "king");
         promotion.printToConsole();
+
     }
 }
