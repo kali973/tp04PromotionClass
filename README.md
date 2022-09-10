@@ -8,4 +8,5 @@ Sujet 2 afficher un objet de la classe Student
 
 3 - Launch Application     
 ![img_1.png](src/main/resources/document/img_1.png)# tp04PromotionClass
+
 # tp04PromotionClass

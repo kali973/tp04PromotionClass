@@ -7,13 +7,11 @@ public class Processor {
 
         Promotion promotion = new Promotion();
 
-        promotion.add("paul", "karl");
-        promotion.add("gilles", "edison");
-        promotion.add("marc", "Thales");
-        promotion.add("eric", "Thomas");
-        promotion.add("amaury", "belloit");
-        promotion.add("julien", "king");
+        promotion.add("Patrick", "Bellot");
+        promotion.add("Cuong", "Bellot");
+        promotion.add("Leila", "Bellot");
+        promotion.add("Nam", "Bellot");
+        promotion.selectionSort();
         promotion.printToConsole();
-
     }
 }
