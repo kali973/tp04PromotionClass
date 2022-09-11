@@ -11,6 +11,7 @@ public class Processor {
         promotion.add("Cuong", "Bellot");
         promotion.add("Leila", "Bellot");
         promotion.add("Nam", "Bellot");
+
         promotion.selectionSort();
         promotion.printToConsole();
     }
