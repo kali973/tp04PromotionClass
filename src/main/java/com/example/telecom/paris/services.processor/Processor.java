@@ -5,7 +5,6 @@ public class Processor {
     public static void main(String[] args) {
 
         Promotion promotion = new Promotion();
-
         promotion.add("Patrick", "Bellot");
         promotion.add("Cuong", "Bellot");
         promotion.add("Leila", "Bellot");
