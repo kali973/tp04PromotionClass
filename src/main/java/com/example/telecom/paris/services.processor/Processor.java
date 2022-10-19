@@ -1,7 +1,6 @@
 package com.example.telecom.paris.services.processor;
 
 import com.example.telecom.paris.models.Promotion;
-
 public class Processor {
     public static void main(String[] args) {
 
